@@ -8,7 +8,7 @@ You are a registered participant on our Software Carpentry Workshop (17-19 Novem
 ## 1. Installing Zoom !!!
 If you don’t have Zoom installed you can do so here: https://zoom.us/download. Please make sure that it is upgraded to Zoom version 5.0 or better.
 
-**TODO Giacomo: Can you fill in the following bit for me???**
+**TODO Giacomo: Can you fill in the following bit for me???** DONE!!!!
 
 **TODO: Do we know whether the UoE Zoom instructions are fine here??**
 
@@ -41,7 +41,7 @@ If you have any trouble, send us an email or ask during the setup session (see b
 ## 4. Testing Zoom and Software Installation
 We are running a setup session on Monday 16th November between 14:00 and 15:00 to help you familiarize with the Zoom environment and help with any installation issues. Please, if you have some time, do connect to make sure everyone will be ready to go on Tuesday. (NB the link is different from the workshop one) !!!
 
-**TODO Giacomo: Can you please check the following for me? Also the previous sentence about the links being different.**
+**TODO Giacomo: Can you please check the following for me? Also the previous sentence about the links being different.** DONE!! ALL GOOD!
 
 * Zoom URL for Zoom/installation testing (with embedded password): https://us02web.zoom.us/j/87388886105?pwd=M1psUlBLbEJYWDJOUm1veVlZZWZPdz09
 * Password: 587590
@@ -51,7 +51,7 @@ We are running a setup session on Monday 16th November between 14:00 and 15:00 t
 * Collaborative document: https://pad.carpentries.org/2020-11-17-edinburgh-swc-online
 * If you haven’t filled in the pre-workshop survey please do so here: https://carpentries.typeform.com/to/wi32rS?slug=2020-11-17-edinburgh-swc-online !!!
 
-**TODO: Should we include links to the lesson websites? Or just add them to the workshop page (and probably the etherpad)?**
+**TODO: Should we include links to the lesson websites? Or just add them to the workshop page (and probably the etherpad)?** IT WOULD BE GOOD TO ADD THEM TO THE WORKSHOP PAGE AND CERTAINLY TO THE ETHERPAD. PLEASE LET ME KNOW AND I CAN DO IT ON SATURDAY.
 
 ## 6. Please let us know if you cannot join
 We have a waiting list for the workshop and it would be great to give someone else the chance to join.
