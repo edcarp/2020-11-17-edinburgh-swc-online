@@ -12,10 +12,9 @@ If you don’t have Zoom installed you can do so here: https://zoom.us/download.
 
 **TODO: Do we know whether the UoE Zoom instructions are fine here??**
 
-* Joining the workshop, open from 8:50 am on Wednesday  01/07/2020
-* Zoom Meeting Room:https://us02web.zoom.us/j/81353680435
-* Password: 20200701SF
-* Direct Link: https://us02web.zoom.us/j/81353680435?pwd=OGpnWFZFOVJOQVlIZTBqUUNYcTUzdz09
+* Joining the workshop, open from 9:30 am on Tuesday  17/11/2020
+* Zoom Meeting Room:  https://us02web.zoom.us/j/86443998162?pwd=NmpzbHV6V3ErRWU2M1RkOVcxNy9Pdz09
+* Password: 091333
 
 Best practices using Zoom:
 * Rename yourself with your full name (→ Click “Participants” tab, find your name and click on the rename button)
@@ -44,9 +43,8 @@ We are running a setup session on Monday 16th November between 14:00 and 15:00 t
 
 **TODO Giacomo: Can you please check the following for me? Also the previous sentence about the links being different.**
 
-* Zoom URL for Zoom/installation testing (with embedded password): https://us02web.zoom.us/j/81392842565?pwd=dXVOU3JXK1pRQmM5Uk1KNGJNQktVZz09
-* Zoom URL (without password):https://us02web.zoom.us/j/81392842565
-* Password: 20200701SF
+* Zoom URL for Zoom/installation testing (with embedded password): https://us02web.zoom.us/j/87388886105?pwd=M1psUlBLbEJYWDJOUm1veVlZZWZPdz09
+* Password: 587590
 
 ## 5. Important Material and Links and things to do
 * Workshop page: https://edcarp.github.io/2020-11-17-edinburgh-swc-online
