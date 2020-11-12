@@ -1,4 +1,4 @@
-# DRAFT EMAIL TO SEND OUT TO ATTENDEES JUST BEFORE THE WORKSHOP.
+# DRAFT EMAIL TO SEND OUT TO ATTENDEES JUST BEFORE THE WORKSHOP
 # See **TODO** lines below for things needing sorted out
 
 Dear all,
@@ -10,10 +10,10 @@ If you don’t have Zoom installed you can do so here: https://zoom.us/download.
 
 **TODO Giacomo: Can you fill in the following bit for me???**
 **TODO: Do we know whether the UoE Zoom instructions are fine here??**
-Joining the workshop, open from 8:50 am on Wednesday  01/07/2020
-Zoom Meeting Room:https://us02web.zoom.us/j/81353680435
-Password: 20200701SF
-Direct Link: https://us02web.zoom.us/j/81353680435?pwd=OGpnWFZFOVJOQVlIZTBqUUNYcTUzdz09
+* Joining the workshop, open from 8:50 am on Wednesday  01/07/2020
+* Zoom Meeting Room:https://us02web.zoom.us/j/81353680435
+* Password: 20200701SF
+* Direct Link: https://us02web.zoom.us/j/81353680435?pwd=OGpnWFZFOVJOQVlIZTBqUUNYcTUzdz09
 
 Best practices using Zoom:
 Rename yourself with your full name (→ Click “Participants” tab, find your name and click on the rename button) and share your video, if possible (it is easier to teach when instructors can see people’s faces).
@@ -37,16 +37,14 @@ If you have any trouble, send us an email or ask for
 ## 4. Testing Zoom and Software Installation
 We are running a setup session on Monday 16th November between 14:00 and 15:00 to help you familiarize with the Zoom environment and help with any installation issues. Please if you have some time do connect to make sure everyone will be ready to go on Thursday. (NB the link is different from the workshop one) !!!
 **TODO Giacomo: Can you please check the following for me? And the last bit of the previous sentence.**
-Zoom URL for Zoom/installation testing (with embedded password):
-https://us02web.zoom.us/j/81392842565?pwd=dXVOU3JXK1pRQmM5Uk1KNGJNQktVZz09
-Zoom URL (without password):https://us02web.zoom.us/j/81392842565
-Password: 20200701SF
+* Zoom URL for Zoom/installation testing (with embedded password): https://us02web.zoom.us/j/81392842565?pwd=dXVOU3JXK1pRQmM5Uk1KNGJNQktVZz09
+* Zoom URL (without password):https://us02web.zoom.us/j/81392842565
+* Password: 20200701SF
 
 ## 5. Important Material and Links and things to do
-Workshop page: $ttps://edcarp.github.io/2020-11-17-edinburgh-swc-online
-Collaborative document: https://pad.carpentries.org/2020-11-17-edinburgh-swc-online
-
-If you haven’t filled in the pre-workshop survey please do so here: https://carpentries.typeform.com/to/wi32rS?slug=2020-11-17-edinburgh-swc-online !!!
+* Workshop page: https://edcarp.github.io/2020-11-17-edinburgh-swc-online
+* Collaborative document: https://pad.carpentries.org/2020-11-17-edinburgh-swc-online
+* If you haven’t filled in the pre-workshop survey please do so here: https://carpentries.typeform.com/to/wi32rS?slug=2020-11-17-edinburgh-swc-online !!!
 
 ## 6. Please let us know if you cannot join
 We have a waiting list for the workshop and it would be great to give someone else the chance to join.
