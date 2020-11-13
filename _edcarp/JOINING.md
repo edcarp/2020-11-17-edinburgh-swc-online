@@ -12,7 +12,7 @@ If you don’t have Zoom installed you can do so here: https://zoom.us/download.
 
 **TODO: Do we know whether the UoE Zoom instructions are fine here??**
 
-* Joining the workshop, open from 9:30 am on Tuesday  17/11/2020
+* Joining the workshop, open from 9:30 am on Tuesday 17th November
 * Zoom Meeting Room:  https://us02web.zoom.us/j/86443998162?pwd=NmpzbHV6V3ErRWU2M1RkOVcxNy9Pdz09
 * Password: 091333
 
@@ -39,9 +39,7 @@ The key software you'll need is as follows:
 If you have any trouble, send us an email or ask during the setup session (see below).
 
 ## 4. Testing Zoom and Software Installation
-We are running a setup session on Monday 16th November between 14:00 and 15:00 to help you familiarize with the Zoom environment and help with any installation issues. Please, if you have some time, do connect to make sure everyone will be ready to go on Tuesday. (NB the link is different from the workshop one) !!!
-
-**TODO Giacomo: Can you please check the following for me? Also the previous sentence about the links being different.** DONE!! ALL GOOD!
+We are running a setup session between 2-3pm on Monday 16th November to help you familiarize with the Zoom environment and help with any installation issues. Please, if you have some time, do connect to make sure everyone will be ready to go on Tuesday. (NB: the link is different from the workshop one) !!!
 
 * Zoom URL for Zoom/installation testing (with embedded password): https://us02web.zoom.us/j/87388886105?pwd=M1psUlBLbEJYWDJOUm1veVlZZWZPdz09
 * Password: 587590
