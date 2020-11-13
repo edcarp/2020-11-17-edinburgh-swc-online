@@ -5,10 +5,10 @@ Dear all,
 
 You are a registered participant on our Software Carpentry Workshop (17-19 November). The following will help you set up your computer for the workshop and will provide any useful links you may need. There is a lot of information here, so please read everything carefully... **We have marked things requiring particular attention with !!! below.**
 
+Please also note that all times advertised here are UK time, currently GMT.
+
 ## 1. Installing Zoom !!!
 If you don’t have Zoom installed you can do so here: https://zoom.us/download. Please make sure that it is upgraded to Zoom version 5.0 or better.
-
-**TODO Giacomo: Can you fill in the following bit for me???** DONE!!!!
 
 **TODO: Do we know whether the UoE Zoom instructions are fine here??**
 
