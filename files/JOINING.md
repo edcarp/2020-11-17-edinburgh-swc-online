@@ -35,7 +35,7 @@ If you're a Mac user, we recommend you hold off upgrading to macOS 11.0 (just re
 
 If you have any trouble, send us an email or ask during the setup session (see below). We’ll also be available in the Zoom meeting from 9:30am on Tuesday, should you have any last-minute software issues.
 
-4. Testing Zoom and Software Installation
+## 4. Testing Zoom and Software Installation
 
 We are running a setup session between 2-3pm on Monday 16th November to help you familiarise with the Zoom environment and help with any software installation issues. If you have time, please do join the session to help make sure you’re all ready to go on Tuesday morning.
 
@@ -68,7 +68,7 @@ Collaborative notes:
 https://pad.carpentries.org/2020-11-17-edinburgh-swc-online
 
 If you haven’t filled in the pre-workshop survey please do so here: 
-https://carpentries.typeform.com/to/wi32rS?slug=2020-11-17-edinburgh-swc-online (!!!)
+https://carpentries.typeform.com/to/wi32rS?slug=2020-11-17-edinburgh-swc-online **(!!!)**
 
 ## 8. Please let us know if you cannot join
 
